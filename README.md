@@ -3,9 +3,9 @@
 Real-time Transaction Challenge
 ===============================
 ## Overview
-Welcome to Current's take-home technical assessment for backend engineers! We appreciate you taking the time to complete this, and we're excited to see what you come up with.
+Welcome to take-home technical assessment for backend engineers! We appreciate you taking the time to complete this, and we're excited to see what you come up with.
 
-Today, you will be building a small but critical component of Current's core banking enging: real-time balance calculation through [event-sourcing](https://martinfowler.com/eaaDev/EventSourcing.html).
+Today, you will be building a small but critical component of core banking enging: real-time balance calculation through [event-sourcing](https://martinfowler.com/eaaDev/EventSourcing.html).
 
 ## Schema
 The [included service.yml](service.yml) is the OpenAPI 3.0 schema to a service we would like you to create and host. 
